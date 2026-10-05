@@ -1,0 +1,2 @@
+wait("o.2")
+loadstring(game:HttpGet("licarswastaken-jpg/licarsvapev4/blob/main/Licarsware/loader.lua"))()
